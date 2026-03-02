@@ -9,7 +9,7 @@
 	url = https://github.com/tyakovenko/weatherClassification.git
 [submodule "wpi-mira"]
 	path = wpi-mira
-	url = https://github.com/fastly/wpi-mira.git
+	url = https://github.com/tyakovenko/wpi-mira.git
 [submodule "dataVisualizationPerception"]
 	path = dataVisualizationPerception
 	url = https://github.com/tyakovenko/dataVisualizationPerception.git
