@@ -1,0 +1,18 @@
+[submodule "generateImgs"]
+	path = generateImgs
+	url = https://github.com/tyakovenko/generateImgs.git
+[submodule "vaeEncoders"]
+	path = vaeEncoders
+	url = https://github.com/tyakovenko/vaeEncoders.git
+[submodule "weatherClassification"]
+	path = weatherClassification
+	url = https://github.com/tyakovenko/weatherClassification.git
+[submodule "wpi-mira"]
+	path = wpi-mira
+	url = https://github.com/fastly/wpi-mira.git
+[submodule "dataVisualizationPerception"]
+	path = dataVisualizationPerception
+	url = https://github.com/tyakovenko/dataVisualizationPerception.git
+[submodule "queryEfficiencyStudy"]
+	path = queryEfficiencyStudy
+	url = https://github.com/tyakovenko/queryEfficiencyStudy.git
